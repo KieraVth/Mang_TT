@@ -1,0 +1,11 @@
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.csproj.AssemblyReference.cache
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.Form1.resources
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.Form_fix.resources
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.Properties.Resources.resources
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.csproj.GenerateResource.cache
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.csproj.CoreCompileInputs.cache
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\bin\Debug\BTL_MTT.exe.config
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\bin\Debug\BTL_MTT.exe
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\bin\Debug\BTL_MTT.pdb
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.exe
+C:\Users\Aspire A315-56\source\repos\BTL_MTT\obj\Debug\BTL_MTT.pdb
